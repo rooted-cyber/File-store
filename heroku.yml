@@ -1,5 +1,3 @@
 build:
   docker:
-    rootedcyber: Dockerfile
-run:
-  rootedcyber: bash vid.sh
+      rootedcyber: Dockerfile
