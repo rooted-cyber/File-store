@@ -1,5 +1,5 @@
 build:
   docker:
-    drone: Dockerfile
+    rootedcyber: Dockerfile
 run:
-  drone: bash vid.sh
+  rootedcyber: bash vid.sh
