@@ -1,4 +1,4 @@
-FROM ubuntu:18.04
+FROM theteamultroid/ultroid:main
 
 ENV DEBIAN_FRONTEND=noninteractive
 
